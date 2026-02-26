@@ -1,2 +1,0 @@
-username = Lololoshka
-password = qwerty12345
